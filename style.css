@@ -1,0 +1,45 @@
+/* milk tea background cause I like it*/
+body {
+    background-color: #f3e5d0; 
+
+    display: flex;
+    justify-content: center;
+
+
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    color: #4a3728;
+}
+.content-card {
+    background-color: #ffffff;
+    padding: 3rem;
+    border-radius: 30px;
+    box-shadow: 0 15px 35px rgba(74, 55, 40, 0.15);
+    text-align: center;
+    max-width: 450px;
+    margin: 20px;
+}
+
+
+
+
+img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 20px;
+    margin-bottom: 25px;
+    border: 5px solid #fdfaf5;
+}
+h1 {
+    margin-top: 0;
+    font-size: 1.8rem;
+    color: #5c4033;
+}
+p {
+    line-height: 1.6;
+    font-size: 1.1rem;
+    margin-bottom: 15px;
+}
